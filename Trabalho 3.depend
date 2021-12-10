@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639106292 source:c:\users\igor maceno\desktop\utfpr\linguagem de programação estruturada\trabalhos\trabalho03\trabalho 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
